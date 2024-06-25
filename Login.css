@@ -1,0 +1,20 @@
+.login-background {
+    background-image: url('https://t3.ftcdn.net/jpg/03/44/52/88/360_F_344528805_o1LwyPDkkDZ7TEbTE5J08e9m00ZifmGK.jpg');  /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    overflow: hidden;
+  }
+  .ant-form-item-label > label {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+  }

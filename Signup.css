@@ -1,0 +1,28 @@
+.signup-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-image: url('https://img.freepik.com/free-vector/geometric-gradient-futuristic-background_23-2149116406.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .signup-card {
+    width: 500px;
+    height: 520px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 10px 18px rgba(230, 226, 226, 0.1);
+    background-color: #fff; /* Optional: Set card background color */
+  }
+  
+  .signup-button {
+    width: 100%;
+  }
+  
+  .signup-card h2 {
+    margin-bottom: 0px;
+  }
+  
